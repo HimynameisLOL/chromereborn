@@ -1,8 +1,8 @@
 <div align="center">
   <img src="public/icon.png" height=75 width=75 />
-  <h1>Mocha</h1>
+  <h1>Chrome Reborn</h1>
 </div>
-A simple web proxy that has many essential features for easy browsing.
+A simple browser that has many essential features for easy browsing.
 
 ## Features
 - [x] Tab cloaking
