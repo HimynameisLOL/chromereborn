@@ -16,7 +16,7 @@ function Settings() {
           className="btn join-item"
           onClick={() => {
             store('tabName', tabTitle)
-            document.title = tabTitle || 'Mocha'
+            document.title = tabTitle || 'Chrome Reborn'
             toast.success('Saved tab title')
           }}
         >
@@ -87,7 +87,7 @@ export default Settings
           className="btn join-item"
           onClick={() => {
             store('tabName', tabTitle)
-            document.title = tabTitle || 'Mocha'
+            document.title = tabTitle || 'Chrome Reborn'
             toast.success('Saved tab title')
           }}
         >
