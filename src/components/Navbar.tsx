@@ -34,7 +34,7 @@ function Navbar() {
       <div className="navbar-center">
         <Link to="/">
           <div className="btn btn-ghost normal-case text-xl">
-            <FontAwesomeIcon icon={fas.faMugHot} /> Mocha
+            <FontAwesomeIcon icon={fas.faMugHot} /> Chrome Reborn
           </div>
         </Link>
       </div>
@@ -42,7 +42,7 @@ function Navbar() {
       {/* Right buttons */}
 
       <div className="navbar-end">
-        <a aria-label="GitHub Link" href="https://github.com/cafe-labs/mocha" target="_blank">
+        <a aria-label="GitHub Link" href="https://github.com/himynameislol/chromereborn" target="_blank">
           <button aria-label="GitHub link" className="btn btn-ghost btn-circle">
             <FontAwesomeIcon icon={fab.faGithub} className="h-5 w-5" />
           </button>
