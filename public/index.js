@@ -50,7 +50,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Mocha running at port 8080`);
+  console.log(`Chrome Reborn running at port 8080`);
 });
 
 server.listen({
