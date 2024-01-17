@@ -7,7 +7,7 @@ A simple browser that has many essential features for easy browsing.
 ## Features
 - [x] Tab cloaking
 - [x] Light/dark mode
-- [x] Proxy switcher (Ultraviolet/Dynamic)
+- [x] Proxy switcher (UV/Dynamic)
 - [x] Easy navigation
 - [x] Useful menu bar
 - [ ] Favorites
@@ -19,7 +19,7 @@ You need [NodeJS](https://nodejs.org) and [Git](https://git-scm.com/download) in
 
 ````bash
 # Clone + install packages
-git clone https://github.com/cafe-labs/mocha.git 
+git clone https://github.com/himynameislol/chromereborn.git
 npm install 
 
 # To start a dev server:
